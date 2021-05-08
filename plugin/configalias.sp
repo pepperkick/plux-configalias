@@ -2,7 +2,7 @@
 #include <sourcemod>
 #include <tf2>
 
-public Plugin:plugin =
+public Plugin:myinfo =
 {
 	name = "Config Alias",
 	author = "PepperKick",
